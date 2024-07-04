@@ -20,10 +20,13 @@ class Image:
         self.__height = int(height/8)
         if self.__height < 72:
             self.__height = 72
+        elif self.__height > 144:
+            self.__height = 144
 
         while self.__height % 8 != 0:
             self.__height -= 1
 
+        print(self.__height)
         self.__channel = channel
         self.__width = self.__height
 
