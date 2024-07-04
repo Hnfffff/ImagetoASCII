@@ -1,0 +1,72 @@
+? P P O O O O O O O # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+? P P O O O O O O O # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+? P P O O O O O O O # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+? P P O O O O O O O O # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+? P P P P P P O O O O O # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+? P O # # # # # # O O O # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+? O # # # # # # # P O O # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+? P # # O O # # # P O O # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+? P # # O P # # # P O O O # # # # O # O O O # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+? P # # # # # # # P O O O # # # # P P O P O # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+? P O # O O O O O O O O O O # # # P P O P P O O # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+? P # # # # # # # # # O O O O P P ? ! ? P P P P O # # # # # # # # O P ? P ? P # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+? P # # # # # # # # # O O O ? o ! ! o ! ? ? ? ? P P O # # # # P ? o c c c o ? ? # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+? P # # # P # # # # # O ! c ; ; ; ; ; ! # # # # # # O # # # ! o c ; c c c c ! ! ? # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+! ? # P ! o O # # O O P o c c ; ; ; ; ! # # # # O O O O O ? o c c c c c o o o o ! P # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+; ; c ; . ; o # # P P P ! o o o ! ? ? P O O O O O P P O P o o o o o o o o c c o o ! O # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+. ; ; ; ; c o ? ? P P ? ? ? ? ? ? ? ! ! ! ! o ! P O O O ? o c o c c c o c c c c o o P # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+c c c c c c c c c c o o o ! ! ! ? ? ! ! o c c c o P P P ! c o o o c c c c c c c c c ! # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+; ; ; c c c c c c o o o o ! ? ? ? ! ! ! o c . ; c P P P o o ? ! ! o o c c ! c c ; ; ! O # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+. . . ; ; ; ; ; ; c c c c c c o o o o o c ; . . c P P ? c o P P P P ? ! ! ! ! ; . ; ? O # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+; . . ; ; ; ; ; c c c c o o o ! ! ! ! ! ; ; . . c P P P o c ! ! ? O ? ! ! ! ? c ; ; P O O O O O O O O # # # # # # # # # # # # # # # # # # # # # 
+; . ; ; ; c c c c c o o o ! ! ! ? ? ? ! ; ; . . c P P P ? c ? ! P # P P P P P o o ! ! o o o o o o o o o o o o ! ! ! ? ? P P O # # # # # # # # # 
+; . ; ; ; c c c c o o o o ! ! ? ? P P ? ; ; . . c P ? P ? ! P O O # O # # O P ! ! ! c c c c c c c c c c c c c c c c c c c c o o ? O O ? ? ! ! ! 
+; . ; ; ; c c c c c o o o ! ! ? ? P P ? ; ; . . c ? ? P ? ! O # O O P O # O ? ! ? ; ; ; c c c c c c c c c c c c c c c c c c c c c o o c c c c c 
+; . ; ; ; c c c c c c o o ! ! ? ? P P ? ; ; . . c ? P ? o c ? O P P ? O O P ? o ; . . ; c c o ; c c c c c c c c c c c c c c c c c c c c c c c c 
+; . ; ; ; c c c c c ; c o ! ! ? ? P P ? ; ; . . o ? ? o ; ; o O P P P P P P ! c . . . c c c o c c c c c o o o o o o o o c o c c c c c c c c c c 
+; . ; ; ; ; c c c c ; c o ! ! ? ? P P ? ; ; . . o P ! ; ; . ; P P ? ? P P ? ? c   . . c ; c ; c ; c c c c o o o ! ! ! o o c c c ; ; c c o o c c 
+. . . ; ; ; c c c c c o o ! ! ? ? ? ? ? ; ; . . ! P c ; ; . ; o P P O O P ? ? o . . ; c . ; ; c ; c c c c o o o ! ! o o c c c ; ; ; c o o o o c 
+. . . . ; ; ; c c c c o o o ! ! ? ? ? ? ; ; . . ? ? ; ; ; ; ; ; P O P P P P P ! . ; ; c . ; ; c ; ; c c c c o o o ! o o c c c ; ; ; c o ! o o c 
+. . . . . ; ; ; c c c o o o ! ! ? ? ? ! c ; . . ! ? ; ; ; ; ; c P O O P P P P P c ; ; ; . ; ; c ; ; ; c c c c c o ! ! o c c ; ; ; c o ! ! o c c 
+. . . . . . . . . ; ; ; ; ; c c c c o o c ; . . . c ; ; ; c c ! # O O O P P O # ? c ; ; ; ; c c ; c c c c c c c c o o o c c ; ; ; c o o o c c c 
+. . . . ; ; ; c c c c c c c c c c c c c ; ; . . . . ; c ! P # # # # O O O # # # # # O o ; ; ; c ; c c c c c c c c c o o c ; ; ; ; c o o c c c c 
+. . . . . ; ; c c c c c o o o o o o o o ; ; . . ; c P # # # # # # # O # # # # # # # # # P c ; ; ; c c c c c c c c c c o c c ; ; c c c c c c c ; 
+;     . . . ; ; ; c c c c o o o o o o o ; ; . c O # # # # # # # # P c ? # # # # # # # # # # o ; ; c c c c c c ; c c c c c c ; ; c c c c c c c ; 
+o .   . . . . ; ; c c c c c o o o o o o ; ; o # # # # # # # # # # ? c c # # # # # # # # # # # ? ; ; ; c c ; ; ; ; ; c c c ; ; ; c c c c c c ; ; 
+c c     . . . . ; ; ; c c c c c c c c c ; ; O # # # # # # # # # # ? c ! # # # # # # # # # # # # ? ; ; ; ; ; ; ; ; ; c ; ; ; ; ; ; c c c c ; ; ; 
+; o .   . . . . ; ; . ; c c c c c c c c ; c # # # # # # # # # # # ! c ? # # # # # # # # # # # # # o ; ; ; ; ; ; ; ; ; c ; . ; ; ; ; c c c ; ; ; 
+. o c       . . . . . ; ; c c c c c c c ; o # # # # # # # # # # # c c ! # # # # # # # # # # # # # # ; ; ; ; ; ; . ; ; . . . ; ; ; ; c c c ; ; . 
+. c o       . . . . . ; ; ; c c c c c c c P # # # # # # # # # # P c c ! # # # # # # # # # # # # # # ? ; . . . . . . . . . . ; ; ; ; c c ; ; ; . 
+. ; o         . . . . ; ; ; ; ; ; ; c c c # # # # # # # # # # # ? c c ! # # # # # # # # # # # # # # # ; . . . . . . . . . ; ; . . ; ; c ; ; . . 
+. . o .         . . . . . ; ; ; ; ; c c ! # # # # # # # # # # # ! c c ! # # # # # # # # # # # # # # # c . . . .     . . . . . . . . ; ; ; ; . . 
+. . c .   . . . . . . . . . . ; ; ; ; ; O # # # # # # # # # # # ! c c ? # # # # # # # # # # # # # # # ? .                 . . . . . . ; ; ; . . 
+. . c .     . . . . . ; ; ; ; ; c c c c # # # # # # # # # # # # ! o o ? # # # # # # # # # # # # # # # # .                         . . . . . . . 
+. . c .     . . . . . . ; ; ; ; ; ; c ? # # # # # # # # # # # # c o o P # # # # # # # # # # # # # # # # c                                 . . . 
+. . c .     . . . . . . . ; ; ; ; ; c # # # # # # # # # # # # O c ? o P # # # # # # # # # # # # # # # # !                                       
+. . o .     . . . . . . . . ; . ; ; ! # # # # # # # # # # # # P c o c P # # # # # # # # # # # # # # # # O ! .           . . .                   
+. . o .     . . . . .   . . . . . ; P # # # # # # # # # # # # ? c c c P # # # # # # # # # # # # # # # # # P ! .     . . ; ; ; ; ; . . .         
+. . o .     . . . . . . . . . . . ; c ? # # # # # # # # # # # ! c c c O # # # # # # # # # # # # # # # # # P P o . . . ; c c o o c c c ; .       
+. ; ! .     . . . . . . . . . . . ; ; c # # # # # # # # # # # o ; c c O # # # # # # # # # # # # # # # # O P ? P c . ; c c o ! ! o c c ; ; . . . 
+. o ? c       .   . . . . . . . . . ; ! # # # # P # # # # # # o c c c # # # # # # # # O # # # # # # # O P P ? P ? ; c o o ! ! ! ! c c ; . . . . 
+. ! ! o                 . . . . . . . ? # # # P # # # # # # # c c c c # # # # # # # # O # # # # O ! o ? P P ? ? P ! c o ! o o o o c ; ; . . . . 
+. o ! o       . . . . . . . . . . . . P # # # ? # # # # # # O c c c c # # # # # # # # # # # # # O o ; P P P P ! P ? o c o o c c c ; ; ; . . . . 
+. o ! o       . . . . . . . ; ; ; ; o O # # O P # # # # # # P c ; ; c # # # # # # # # # # # # O O ! ! P P P P ! ? ? o c c c c c ; ; ; . . . .   
+. o o c       . . . . . . . . . ; ; P # # O ? # # # # # # # o c c ; c # # # # # # # # ? O # # O P ? P P P P P ? ? ? ! ; c c ; ; ; ; . . . . .   
+. c c ;       . . . . . . . . . . c O # # O ? # # # # # # # c c c c c # # # # # # # O ? O O O O P ? P P P P P P ! ? ! c ; ; ; ; ; ; . . . .     
+. ; c .     .   . . . . . . . . . c O # # O O # # # # # # o c c ; c c # # # # # # # ? P O O O O P P P P P P P P ! ? ? c ; ; ; ; . . .           
+; ; ;                 . . . . . . c O # # O O # # # # # ! ? o c c ; c O # # # # O ? ? P O O O O P P P P P P P P ? ? ? c ; ; . .                 
+; c .                 . . . . . ; ; P # # O O O # # # ? O # o ; c c c P # # # O P ! P O P O O P P P P P P P P P P ! ? c . . .                   
+c c                   . . . ; ; c ; o O # O P O P c ! O # # c c c c c ? # # # O O O # P P P P P ? P P P P P P P P ? ! o . .                     
+c c     . . . .   . . . . ; ; c c ; ; ? # # # # # P ; ; ! P ; ; ; ; c ? # # # # # # P ? O P ? ? P O P P P P P O P ? ! c .                     . 
+o c       . . . . . . ; ; ; c c ; ; . ; O # # # # O P c c c ! # P P O # # # # # # O ! ? O P ? ! P P P P P O P P ? ! ! c                       . 
+! c .     . . . . ; ; ; ; ; c ; ; . . ; O # # # # O O P P P O # O # # # # # # O O P ! ? O P P ! ? P P P P P P ? ! ! ! ;         . . .     . . . 
+! o . . ; ; ; ; ; ; ; c c ; ; ; . . . ! O O P P P P P P O O O ? c O O P ? ? ! ! ? P ? P O O P ! ? P P P P P P ? ? ! o .     . . . .     . . . . 
+! o . ; c c c c c c c ; ; ; . .     . ? P ? O O O O P ? ? ? ! o ; ? o c c ; ; . o O ? P O P P o ! ? ? P P P ? ? ? ! c       . . . . . . . . . . 
+? o ; ; ; ; c c c o c ; ; ; .     . ; o c o O O O O O O P ; . . ; ; ; ; ; ; ; . ! O P O O P P o ! ? P P P P P P ? o .     . . . . . . . . . . . 
+? o ; ; . . . ; c o c ; . .       . ; ; ; ; ! O P O O P O ; ; . . ; . . ; ; ; c ? O O O O P ? o o ? P P P P P P ! ;     . . . . . . . . . . . . 
+! c ; ; ; c ; ; ; c c ; .         ; ; ; ; ; ; ? ? O P P O c . ; ; ; ; ; ; . . o ! O O O O P ? o ? P P P P P P P o . . . . . . . . . . . . . . . 
+o c ; ; ; c c c c ; c ;         . ; ; ; ; ; ; ; ; c ! P O o ; ; ; ; ; . . . ; ! ? P # O O P ? ! P P P ? P P P ? ; . . ; ; . . . . . . . . . . . 
+c ; . . . ; ; c c ; c ;         . ; ; ; ; ; ; ; ; . ; o o ! ; ; . . . . . . c ! ? ? O O O P ! ! P ? ? P P P ? o . ; ; ; ; ; . . . . . . . . . . 
+c . . . . ; ; ; c . c ;         ; ; ; ; ; ; ; ; ; ; ; . . o ; . . . . .   . o ? ? ? P O P ? o ! ? ? P P P P ? c c c ; ; ; ; . . . . . . . . . . 
+; . .   . ; ; ; ; . ; ;         ; ; ; ; ; ; ; ; ; ; ; ; . . . . ; . . . . ; ! P P P O O P ? c ! P P P P P ? o c c c ; ; ; ; . . . . . . . . .   
+. . .   . ; ; ; ; . ; .       . ; ; ; ; ; ; c c ; ; ; . . . ; ; ; ; ; . . c ! P P ? P P P ! o P P P P P P ! c c c ; ; ; ; ; ; . . . . . . . .   
